@@ -11,5 +11,5 @@ Từ các file dữ liệu về doanh thu và chỉ tiêu, tôi làm sạch, chu
 -	Xây dựng mô hình dữ liệu<br>
 -	Sử dụng các công thức DAX để bổ sung, tính toán dữ liệu cho phân tích<br>
 -	Biến dữ liệu thành thông tin chi tiết mang tính tương tác, logic và dễ hiểu bằng các báo cáo và hình ảnh trực quan<br>
-- Tạo tooltip bổ sung dữ liệu chi tiết cho visual<br>
+- Tạo tooltip bổ sung thông tin chi tiết cho visual<br>
 -	Tạo các slicer được để dưới dạng bookmark để tiết kiệm không gian trên báo cáo.</ul>
