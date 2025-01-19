@@ -8,7 +8,7 @@ Từ các file dữ liệu về doanh thu và chỉ tiêu, tôi làm sạch, chu
 -	Tạo các slicer lọc dữ liệu giúp người dùng tương tác với các biểu đồ một cách dễ dàng, khám phá các chủ đề quan tâm và thu được những thông tin hữu ích.</ul>
 <p><strong>Cách thực hiện:</strong></p><ul>
 -	Làm sạch, chuyển đổi và hoàn thiện dữ liệu trong Power Query<br>
--	Xây dựng mô hình dữ liệu<br>
+-	Xây dựng mô hình dữ liệu <br>
 -	Sử dụng các công thức DAX để bổ sung, tính toán dữ liệu cho phân tích<br>
 -	Biến dữ liệu thành thông tin chi tiết mang tính tương tác, logic và dễ hiểu bằng các báo cáo và hình ảnh trực quan<br>
 - Tạo tooltip bổ sung thông tin chi tiết cho visual<br>
